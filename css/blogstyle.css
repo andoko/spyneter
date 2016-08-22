@@ -1,0 +1,121 @@
+body{
+ background:#fff;
+}
+body .container{
+	width:100%;
+	max-width: 1000px;
+}
+p{
+	line-height: 1.3rem;
+}
+.toop{
+	padding-top:60px !important;
+	margin-bottom: 20px;
+}
+.margin0{
+	margin-top:0 !important;
+}
+.app-bar.putih .app-bar-pullbutton.automatic {
+	color: #4a4a4a
+}
+.app-bar.putih {
+  background: rgba(255, 255, 255, 0.97) none repeat scroll 0 0;
+    border-bottom: 1px solid #d3d3d3;
+}
+.app-bar.putih {
+	color: #4a4a4a !important;
+}
+.app-bar.putih .app-bar-element:hover,
+.app-bar.putih .app-bar-menu > li:hover,
+.app-bar.putih .app-bar-menu > li > a:hover,
+.app-bar.putih .app-bar-element:active,
+.app-bar.putih .app-bar-menu > li:active,
+.app-bar.putih .app-bar-menu > li > a:active {
+  background-color: #ffffff;
+}
+.app-bar.putih .app-bar-divider {
+  background-color: #eee;
+}
+.app-bar.putih .app-bar-element .d-menu,
+.app-bar.putih .app-bar-menu > li .d-menu {
+  background-color: #ffffff;
+  border-color: transparent;
+}
+.app-bar.putih .app-bar-element .d-menu li:not(.disabled) > a,
+.app-bar.putih .app-bar-menu > li .d-menu li:not(.disabled) > a,
+.app-bar.putih .app-bar-element .d-menu li > a,
+.app-bar.putih .app-bar-menu > li .d-menu li > a {
+  background-color: #ffffff;
+  color: #4a4a4a;
+}
+.app-bar.putih .app-bar-element .d-menu li:not(.disabled) > a:hover,
+.app-bar.putih .app-bar-menu > li .d-menu li:not(.disabled) > a:hover,
+.app-bar.putih .app-bar-element .d-menu li > a:hover,
+.app-bar.putih .app-bar-menu > li .d-menu li > a:hover {
+  background-color: #ffffff;
+  color: #4a4a4a;
+}
+.app-bar.putih .app-bar-element .d-menu li:hover > a,
+.app-bar.putih .app-bar-menu > li .d-menu li:hover > a {
+  background-color: #ffffff;
+}
+.app-bar.putih .app-bar-element .d-menu .divider,
+.app-bar.putih .app-bar-menu > li .d-menu .divider {
+  background-color: #f472d0;
+}
+.app-bar.putih .app-bar-element .d-menu .divider:hover,
+.app-bar.putih .app-bar-menu > li .d-menu .divider:hover {
+  background-color: #f472d0;
+}
+.app-bar.putih .app-bar-element .dropdown-toggle:before,
+.app-bar.putih .app-bar-menu li .dropdown-toggle:before {
+  border-color: #ccc;
+}
+.app-bar.putih .app-bar-element.disabled,
+.app-bar.putih .app-bar-menu li.disabled,
+.app-bar.putih .app-bar-element:disabled,
+.app-bar.putih .app-bar-menu li:disabled {
+  color: #555555;
+}
+.app-bar.putih .app-bar-element.disabled a,
+.app-bar.putih .app-bar-menu li.disabled a,
+.app-bar.putih .app-bar-element:disabled a,
+.app-bar.putih .app-bar-menu li:disabled a {
+  color: inherit !important;
+}
+.app-bar.putih .app-bar-pullbutton:hover {
+  background-color: #ffffff;
+}
+.app-bar.putih .app-bar-drop-container {
+  border: 2px solid #999999;
+  background-color: #fff;
+  color: #4a4a4a;
+}
+.app-bar.putih .app-bar-drop-container:before {
+  background-color: #eeeeee;
+  border-color: #999999;
+}
+.app-bar.putih .app-bar-pullmenu .app-bar-menu {
+  border-top: 1px solid #d3d3d3;
+  background-color: #f9f9f9;
+}
+.app-bar.putih .app-bar-pullmenu .app-bar-menu li:hover {
+  background-color: #ffffff;
+}
+.app-bar.putih .app-bar-pullmenu .app-bar-menu li:hover a {
+  background-color: #ffffff;
+  color: #444;
+}
+h1{margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #ccc;}
+
+#breadcrumb {
+    background: #f3f3f3 none repeat scroll 0 0;
+    color: #999;
+    display: block;
+    padding: 5px;
+}
+#breadcrumb a {
+    color: #999;
+}
+  .kaki{margin-bottom:0 !important; background: #EFEAE3; padding-top:5px;}
+  .post-footer {border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;margin: 15px 0;background: #f3f3f3;}
